@@ -1,3 +1,3 @@
 # Learning Support Application for NCI
 
-First year programming assignment using NetBeans.
+GUI based support application for National College of Ireland
