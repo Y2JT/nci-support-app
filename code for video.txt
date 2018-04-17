@@ -1,1 +1,0 @@
-java.awt.Desktop.getDesktop().browse(java.net.URL.create(URL));
